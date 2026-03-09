@@ -1,0 +1,1 @@
+CLSM-pipeline.md   Workflow for the generation, quality control, annotation, and viral analysis of metagenome-assembled genome (MAG) datasets from the Chinese Lake Sedimentary Microbiomes (CLSM) catalog.
